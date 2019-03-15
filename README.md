@@ -12,7 +12,7 @@ Run the following commands in your terminal, after cloning the repo:
 > rails db:create
 > rails db:migrate
 > rails db:seed
-> rails start
+> rails server
 ```
 
 ## Built With
